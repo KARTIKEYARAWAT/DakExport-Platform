@@ -1,6 +1,6 @@
 # 📦 DakExport — Premium Logistics & Export Management System
 
-[![Backend CI](https://github.com/ragnarStark79/DakExport/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/ragnarStark79/DakExport/actions/workflows/backend-ci.yml)
+[![Backend CI](https://github.com/KARTIKEYARAWAT/DakExport-Platform/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/KARTIKEYARAWAT/DakExport-Platform/actions/workflows/backend-ci.yml)
 [![Laravel](https://img.shields.io/badge/Laravel-11.x-red.svg?style=flat-square&logo=laravel)](https://laravel.com)
 [![React](https://img.shields.io/badge/React-19.x-blue.svg?style=flat-square&logo=react)](https://reactjs.org)
 [![Three.js](https://img.shields.io/badge/Three.js-Visuals-black.svg?style=flat-square&logo=three.dotjs)](https://threejs.org)
@@ -220,8 +220,8 @@ sequenceDiagram
 
 #### 1. Clone the Project
 ```bash
-git clone git@github.com:ragnarStark79/DakExport.git
-cd DakExport
+git clone https://github.com/KARTIKEYARAWAT/DakExport-Platform.git
+cd DakExport-Platform
 ```
 
 #### 2. Backend Bootstrapping
